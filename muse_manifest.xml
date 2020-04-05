@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Viola.eu" resolutions="1x" timestamp="1585867291987">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Viola.eu" resolutions="1x" timestamp="1586122889962">
   <folder name="css">
     <file name="site_global.css" crc="4091947754"/>
-    <file name="index.css" crc="3798185971" ref="index"/>
+    <file name="index.css" crc="4146216858" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -42,6 +42,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="a.jpg" crc="237269577" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -65,5 +66,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3838275354" seo="true" mt="1585867289089" redirect="true"/>
+  <file name="index.html" crc="440816700" seo="true" mt="1586122695264" redirect="true"/>
 </manifest>
